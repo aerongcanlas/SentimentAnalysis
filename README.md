@@ -1,5 +1,8 @@
 # SentimentAnalysis
 
+Part of group project for SE 3354 at UT Dallas (Software Requirements Engineering, Intro to Software Dev Life Cycle Management)
+Imported from Affan's repository for personal portfolio
+
 Visit the hosted website: https://affankhurram.github.io/SentimentAnalysis/
 
 
